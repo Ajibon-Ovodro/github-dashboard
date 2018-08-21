@@ -1,0 +1,11 @@
+.name-container {
+  display: flex;
+}
+
+.name-container h1 {
+  margin-right: 15px;
+}
+
+.ant-card-body{
+  padding: 15px;
+}
